@@ -1,0 +1,15 @@
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\bin\Debug\BlenderBachMP3Player.exe.config
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\bin\Debug\BlenderBachMP3Player.exe
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\bin\Debug\BlenderBachMP3Player.pdb
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\BlenderBachMP3Player.csprojResolveAssemblyReference.cache
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\MainWindow.g.cs
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\App.g.cs
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\BlenderBachMP3Player_MarkupCompile.cache
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\BlenderBachMP3Player_MarkupCompile.lref
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\MainWindow.baml
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\BlenderBachMP3Player.g.resources
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\BlenderBachMP3Player.Properties.Resources.resources
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\BlenderBachMP3Player.csproj.GenerateResource.Cache
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\BlenderBachMP3Player.exe
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\BlenderBachMP3Player.pdb
+C:\Users\Mirek\Documents\Visual Studio 2015\Projects\BlenderBachMP3Player\BlenderBachMP3Player\obj\Debug\App.baml
